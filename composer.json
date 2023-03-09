@@ -1,0 +1,18 @@
+{
+    "name": "shubh1911/innoraft",
+    "description": "this is my first package",
+    "autoload": {
+        "psr-4": {
+            "Shubh1911\\Innoraft\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shubham",
+            "email": "sbham.pareek@innoraft.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.6.2"
+    }
+}
