@@ -1,0 +1,13 @@
+{
+    "name": "nikhil/nk",
+    "description": "this is first project with composer",
+    "authors": [
+        {
+            "name": "nikhil",
+            "email": "nikhilkhandelwal608@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.6.2"
+    }
+}
